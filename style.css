@@ -1,0 +1,20 @@
+.box{
+  width: 150px;
+  height: 100px;
+  text-align: center;
+  position: absolute;
+  left: 50px;
+  top: 20px;
+  border: 2px solid black;
+  padding: 10px 10px 10px 10px;
+  border-radius: 20px;
+  margin-top: 80px;
+  margin-left: 55px;
+}
+
+h3 {
+  display:
+}
+h1{
+  margin-left: 25px;
+}
